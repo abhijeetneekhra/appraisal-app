@@ -1,0 +1,2119 @@
+.profile {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile .div-2 {
+  background-color: #ffffff;
+  height: 1724px;
+  overflow: hidden;
+  position: relative;
+  width: 2238px;
+}
+
+.profile .header-default {
+  height: 64px;
+  left: 266px;
+  position: absolute;
+  top: -1px;
+  width: 1972px;
+}
+
+.profile .overlap-group-3 {
+  background-image: url(../../../static/img/background.png);
+  background-size: 100% 100%;
+  height: 63px;
+  position: relative;
+  top: 1px;
+}
+
+.profile .right-side {
+  align-items: center;
+  display: inline-flex;
+  justify-content: flex-end;
+  left: 1866px;
+  position: absolute;
+  top: 11px;
+}
+
+.profile .spacing-horizontal-spacer {
+  align-self: stretch !important;
+  height: unset !important;
+  position: relative !important;
+}
+
+.profile .avatar {
+  background-image: url(../../../static/img/mask-group-1.png) !important;
+}
+
+.profile .default-avatar-single {
+  font-family: "Inter", Helvetica !important;
+  font-size: 16px !important;
+  font-style: unset !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.4px !important;
+  line-height: 24px !important;
+}
+
+.profile .client {
+  color: #000000;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  left: 35px;
+  letter-spacing: -0.4px;
+  line-height: 24px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.profile .span {
+  font-weight: 700;
+}
+
+.profile .text-wrapper-2 {
+  font-weight: 600;
+}
+
+.profile .footer-instance {
+  background-color: transparent !important;
+  left: 321px !important;
+  position: absolute !important;
+  top: 1572px !important;
+}
+
+.profile .footer-2 {
+  font-family: "Inter", Helvetica !important;
+}
+
+.profile .footer-3 {
+  color: #e85122 !important;
+  font-family: "Inter", Helvetica !important;
+}
+
+.profile .menu-instance {
+  height: 1733px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 1px !important;
+}
+
+.profile .menu-2 {
+  color: #4f4f4f !important;
+  font-family: "Mukta", Helvetica !important;
+}
+
+.profile .icons-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.profile .overlap {
+  height: 1418px;
+  left: 276px;
+  position: absolute;
+  top: 100px;
+  width: 1902px;
+}
+
+.profile .group {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 6px #ababab40;
+  height: 1365px;
+  left: 15px;
+  position: absolute;
+  top: 53px;
+  width: 1887px;
+}
+
+.profile .general-information {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1578px;
+}
+
+.profile .text-wrapper-3 {
+  font-family: "Mukta", Helvetica;
+  font-weight: 700;
+}
+
+.profile .normal-default {
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  height: 55px;
+  left: 1181px;
+  overflow: hidden;
+  position: absolute;
+  top: 1329px;
+  width: 166px;
+}
+
+.profile .button-sample {
+  color: var(--color-white);
+  font-family: var(--text-normal-bold-font-family);
+  font-size: var(--text-normal-bold-font-size);
+  font-style: var(--text-normal-bold-font-style);
+  font-weight: var(--text-normal-bold-font-weight);
+  left: 25px;
+  letter-spacing: var(--text-normal-bold-letter-spacing);
+  line-height: var(--text-normal-bold-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.profile .button-sample-wrapper {
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  height: 55px;
+  left: 1352px;
+  overflow: hidden;
+  position: absolute;
+  top: 1329px;
+  width: 166px;
+}
+
+.profile .normal-default-2 {
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  height: 55px;
+  left: 1523px;
+  overflow: hidden;
+  position: absolute;
+  top: 1329px;
+  width: 166px;
+}
+
+.profile .button-sample-2 {
+  color: var(--color-white);
+  font-family: var(--text-normal-bold-font-family);
+  font-size: var(--text-normal-bold-font-size);
+  font-style: var(--text-normal-bold-font-style);
+  font-weight: var(--text-normal-bold-font-weight);
+  left: 61px;
+  letter-spacing: var(--text-normal-bold-letter-spacing);
+  line-height: var(--text-normal-bold-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.profile .button {
+  all: unset;
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 55px;
+  left: 1694px;
+  overflow: hidden;
+  position: absolute;
+  top: 1329px;
+  width: 166px;
+}
+
+.profile .button-sample-3 {
+  all: unset;
+  box-sizing: border-box;
+  color: var(--color-white);
+  font-family: var(--text-normal-bold-font-family);
+  font-size: var(--text-normal-bold-font-size);
+  font-style: var(--text-normal-bold-font-style);
+  font-weight: var(--text-normal-bold-font-weight);
+  left: 65px;
+  letter-spacing: var(--text-normal-bold-letter-spacing);
+  line-height: var(--text-normal-bold-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.profile .frame {
+  height: 1262px;
+  left: 0;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 50px;
+  width: 1887px;
+}
+
+.profile .overlap-2 {
+  height: 796px;
+  left: 59px;
+  position: absolute;
+  top: 34px;
+  width: 1238px;
+}
+
+.profile .group-wrapper {
+  height: 796px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1238px;
+}
+
+.profile .group-2 {
+  height: 796px;
+  position: relative;
+  width: 1241px;
+}
+
+.profile .general-information-2 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1070px;
+}
+
+.profile .group-3 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 65px;
+  width: 1240px;
+}
+
+.profile .text-wrapper-4 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.profile .input-field {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 1238px;
+}
+
+.profile .imput-field {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.profile .react-field {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  display: flex;
+  gap: 180px;
+  height: 48px;
+  padding: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.profile .ap-field-container {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.profile .ap-field-input {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.profile .text-4 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.profile .group-4 {
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 158px;
+  width: 1240px;
+}
+
+.profile .registration-number {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 267px;
+}
+
+.profile .input-field-2 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 1238px;
+}
+
+.profile .react-field-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 1238px;
+}
+
+.profile .group-5 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 433px;
+  width: 1240px;
+}
+
+.profile .text-wrapper-5 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 511px;
+}
+
+.profile .input-field-3 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 1238px;
+}
+
+.profile .imput-field-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 2px;
+  position: relative;
+  width: 1236px;
+}
+
+.profile .ap-field-container-wrapper {
+  align-items: center;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  display: flex;
+  gap: 180px;
+  height: 48px;
+  margin-right: -2px;
+  padding: 8px;
+  position: relative;
+  width: 1238px;
+}
+
+.profile .group-6 {
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 527px;
+  width: 574px;
+}
+
+.profile .present-position {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 413px;
+}
+
+.profile .input-field-4 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 572px;
+}
+
+.profile .imput-field-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 2px;
+  position: relative;
+  width: 570px;
+}
+
+.profile .react-field-2 {
+  align-items: center;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  display: flex;
+  gap: 180px;
+  height: 48px;
+  padding: 8px;
+  position: relative;
+  width: 570px;
+}
+
+.profile .group-7 {
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 624px;
+  width: 574px;
+}
+
+.profile .date-of-appointment {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 305px;
+}
+
+.profile .input-field-5 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 572px;
+}
+
+.profile .group-8 {
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 720px;
+  width: 574px;
+}
+
+.profile .terms-of-employment {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 572px;
+}
+
+.profile .group-9 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 341px;
+  width: 1244px;
+}
+
+.profile .text-wrapper-6 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 511px;
+}
+
+.profile .marital-status {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 983px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 235px;
+}
+
+.profile .overlap-3 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 572px;
+}
+
+.profile .overlap-group-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 572px;
+}
+
+.profile .overlap-group-4 {
+  height: 48px;
+  position: relative;
+}
+
+.profile .imput-field-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 572px;
+}
+
+.profile .react-field-3 {
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  flex: 0 0 auto;
+  position: relative;
+  width: 572px;
+}
+
+.profile .ap-field-input-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 9px;
+  position: absolute;
+  top: 14px;
+}
+
+.profile .right {
+  height: 23px;
+  left: 529px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.profile .input-field-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 596px;
+  position: absolute;
+  top: 27px;
+  width: 364px;
+}
+
+.profile .imput-field-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.profile .react-field-4 {
+  align-items: center;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 180px;
+  padding: 8px;
+  position: relative;
+  width: 364px;
+}
+
+.profile .input-field-7 {
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  height: 48px;
+  left: 983px;
+  position: absolute;
+  top: 27px;
+  width: 255px;
+}
+
+.profile .text-5 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: -0.4px;
+  line-height: 20px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.profile .band-rank {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 596px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 155px;
+}
+
+.profile .group-10 {
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 253px;
+  width: 1240px;
+}
+
+.profile .DOB {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.profile .overlap-4 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 23px;
+  width: 1238px;
+}
+
+.profile .input-field-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1238px;
+}
+
+.profile .icon {
+  align-items: center;
+  border-radius: 2px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 1190px;
+  padding: 12px;
+  position: absolute;
+  top: 3px;
+}
+
+.profile .outline-calendar {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.profile .group-11 {
+  height: 77px;
+  left: 595px;
+  position: absolute;
+  top: 527px;
+  width: 367px;
+}
+
+.profile .position-held-from {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 255px;
+}
+
+.profile .input-field-9 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 365px;
+}
+
+.profile .imput-field-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 2px;
+  position: relative;
+  width: 363px;
+}
+
+.profile .react-field-5 {
+  align-items: center;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  display: flex;
+  gap: 180px;
+  height: 48px;
+  padding: 8px;
+  position: relative;
+  width: 363px;
+}
+
+.profile .text-6 {
+  color: #252525;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.profile .group-12 {
+  height: 77px;
+  left: 983px;
+  position: absolute;
+  top: 527px;
+  width: 257px;
+}
+
+.profile .place-of-posting {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 254px;
+}
+
+.profile .input-field-10 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 255px;
+}
+
+.profile .imput-field-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 2px;
+  position: relative;
+  width: 253px;
+}
+
+.profile .react-field-6 {
+  align-items: center;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  display: flex;
+  gap: 180px;
+  height: 48px;
+  padding: 8px;
+  position: relative;
+  width: 253px;
+}
+
+.profile .group-13 {
+  height: 76px;
+  left: 595px;
+  position: absolute;
+  top: 624px;
+  width: 645px;
+}
+
+.profile .date-of-confirmation {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 291px;
+}
+
+.profile .imput-field-wrapper {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 643px;
+}
+
+.profile .imput-field-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 2px;
+  position: relative;
+  width: 634px;
+}
+
+.profile .react-field-7 {
+  align-items: center;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  display: flex;
+  gap: 180px;
+  height: 48px;
+  margin-right: -8px;
+  padding: 8px;
+  position: relative;
+  width: 642px;
+}
+
+.profile .group-14 {
+  height: 76px;
+  left: 595px;
+  position: absolute;
+  top: 720px;
+  width: 646px;
+}
+
+.profile .due-date-of {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 636px;
+}
+
+.profile .input-field-11 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 28px;
+  width: 644px;
+}
+
+.profile .imput-field-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 2px;
+  position: relative;
+  width: 642px;
+}
+
+.profile .react-field-8 {
+  align-items: center;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  display: flex;
+  gap: 180px;
+  height: 48px;
+  padding: 8px;
+  position: relative;
+  width: 642px;
+}
+
+.profile .right-px {
+  height: 23px;
+  left: 1201px;
+  position: absolute;
+  top: 474px;
+  width: 24px;
+}
+
+.profile .overlap-5 {
+  height: 620px;
+  left: 59px;
+  position: absolute;
+  top: 1502px;
+  width: 1786px;
+}
+
+.profile .frame-2 {
+  height: 318px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1786px;
+}
+
+.profile .group-15 {
+  height: 252px;
+  position: relative;
+  width: 1798px;
+}
+
+.profile .text-wrapper-7 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 208px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 199px;
+}
+
+.profile .text-wrapper-8 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 199px;
+}
+
+.profile .text-wrapper-9 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 899px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 263px;
+}
+
+.profile .text-wrapper-10 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 1385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 276px;
+}
+
+.profile .experience-profile {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1119px;
+}
+
+.profile .text-wrapper-11 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 415px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 263px;
+}
+
+.profile .group-16 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 98px;
+  width: 1786px;
+}
+
+.profile .group-17 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 192px;
+}
+
+.profile .input-field-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 192px;
+}
+
+.profile .text-7 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.4px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.profile .img {
+  height: 23px;
+  left: 159px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.profile .overlap-wrapper {
+  height: 48px;
+  left: 208px;
+  position: absolute;
+  top: 0;
+  width: 192px;
+}
+
+.profile .input-field-wrapper {
+  height: 48px;
+  left: 415px;
+  position: absolute;
+  top: 0;
+  width: 475px;
+}
+
+.profile .input-field-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  position: relative;
+  width: 475px;
+}
+
+.profile .group-18 {
+  height: 48px;
+  left: 899px;
+  position: absolute;
+  top: 0;
+  width: 475px;
+}
+
+.profile .ap-field-input-3 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.profile .group-19 {
+  height: 48px;
+  left: 1382px;
+  position: absolute;
+  top: 0;
+  width: 404px;
+}
+
+.profile .input-field-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  position: relative;
+  width: 404px;
+}
+
+.profile .group-20 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 151px;
+  width: 1786px;
+}
+
+.profile .group-21 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 204px;
+  width: 1786px;
+}
+
+.profile .frame-3 {
+  height: 318px;
+  left: 0;
+  position: absolute;
+  top: 302px;
+  width: 1786px;
+}
+
+.profile .group-22 {
+  height: 254px;
+  position: relative;
+  width: 1804px;
+}
+
+.profile .text-wrapper-12 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 93px;
+}
+
+.profile .text-wrapper-13 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 139px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 68px;
+}
+
+.profile .text-wrapper-14 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 284px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 262px;
+}
+
+.profile .brand {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 665px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 200px;
+}
+
+.profile .text-wrapper-15 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 889px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 219px;
+}
+
+.profile .overlap-6 {
+  height: 22px;
+  left: 1115px;
+  position: absolute;
+  top: 71px;
+  width: 425px;
+}
+
+.profile .text-wrapper-16 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 318px;
+}
+
+.profile .CO {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 198px;
+}
+
+.profile .text-wrapper-17 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 1568px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 198px;
+}
+
+.profile .experience-profile-2 {
+  color: #4f4f4f;
+  font-family: "Mukta", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1015px;
+}
+
+.profile .group-23 {
+  height: 156px;
+  left: 0;
+  position: absolute;
+  top: 98px;
+  width: 1786px;
+}
+
+.profile .group-24 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1786px;
+}
+
+.profile .group-25 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.profile .input-field-15 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.profile .right-2 {
+  height: 23px;
+  left: 105px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.profile .group-26 {
+  height: 48px;
+  left: 139px;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.profile .input-field-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 140px;
+}
+
+.profile .right-3 {
+  height: 23px;
+  left: 110px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.profile .group-27 {
+  height: 48px;
+  left: 283px;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.profile .input-field-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  position: relative;
+  width: 378px;
+}
+
+.profile .group-28 {
+  height: 48px;
+  left: 665px;
+  position: absolute;
+  top: 0;
+  width: 216px;
+}
+
+.profile .input-field-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 216px;
+}
+
+.profile .right-4 {
+  height: 23px;
+  left: 177px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.profile .group-29 {
+  height: 48px;
+  left: 886px;
+  position: absolute;
+  top: 0;
+  width: 221px;
+}
+
+.profile .input-field-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  position: relative;
+  width: 221px;
+}
+
+.profile .imput-field-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 48px;
+  margin-right: -0.74px;
+  position: relative;
+  width: 222px;
+}
+
+.profile .group-30 {
+  height: 48px;
+  left: 1112px;
+  position: absolute;
+  top: 0;
+  width: 221px;
+}
+
+.profile .group-31 {
+  height: 48px;
+  left: 1339px;
+  position: absolute;
+  top: 0;
+  width: 221px;
+}
+
+.profile .group-32 {
+  height: 48px;
+  left: 1565px;
+  position: absolute;
+  top: 0;
+  width: 221px;
+}
+
+.profile .group-33 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 1786px;
+}
+
+.profile .group-34 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 108px;
+  width: 1786px;
+}
+
+.profile .frame-4 {
+  height: 594px;
+  left: 59px;
+  position: absolute;
+  top: 861px;
+  width: 1809px;
+}
+
+.profile .group-35 {
+  height: 594px;
+  position: relative;
+  width: 1798px;
+}
+
+.profile .education-profile {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 720px;
+}
+
+.profile .group-36 {
+  height: 523px;
+  left: 0;
+  position: absolute;
+  top: 71px;
+  width: 1796px;
+}
+
+.profile .group-37 {
+  height: 523px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 417px;
+}
+
+.profile .qualification {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 149px;
+}
+
+.profile .input-field-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 415px;
+}
+
+.profile .input-field-21 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 415px;
+}
+
+.profile .input-field-22 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 139px;
+  width: 415px;
+}
+
+.profile .input-field-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+  width: 415px;
+}
+
+.profile .input-field-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 251px;
+  width: 415px;
+}
+
+.profile .input-field-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 307px;
+  width: 415px;
+}
+
+.profile .input-field-26 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 363px;
+  width: 415px;
+}
+
+.profile .input-field-27 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 419px;
+  width: 415px;
+}
+
+.profile .input-field-28 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 475px;
+  width: 415px;
+}
+
+.profile .react-field-9 {
+  align-self: stretch;
+  background-color: var(--backgroundcontainer);
+  border: 1px solid;
+  border-color: var(--backgroundborder);
+  border-radius: 4px;
+  height: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.profile .group-38 {
+  height: 523px;
+  left: 444px;
+  position: absolute;
+  top: 0;
+  width: 297px;
+}
+
+.profile .year-of-passing {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 252px;
+}
+
+.profile .overlap-7 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 294px;
+}
+
+.profile .input-field-29 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.profile .right-5 {
+  height: 23px;
+  left: 252px;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.profile .overlap-group-5 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 294px;
+}
+
+.profile .overlap-8 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 139px;
+  width: 294px;
+}
+
+.profile .overlap-9 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+  width: 294px;
+}
+
+.profile .overlap-10 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 251px;
+  width: 294px;
+}
+
+.profile .overlap-11 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 307px;
+  width: 294px;
+}
+
+.profile .overlap-12 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 363px;
+  width: 294px;
+}
+
+.profile .overlap-13 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 419px;
+  width: 294px;
+}
+
+.profile .overlap-14 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 475px;
+  width: 294px;
+}
+
+.profile .group-39 {
+  height: 523px;
+  left: 767px;
+  position: absolute;
+  top: 0;
+  width: 724px;
+}
+
+.profile .institute-university {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 377px;
+}
+
+.profile .input-field-30 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 721px;
+}
+
+.profile .input-field-31 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 721px;
+}
+
+.profile .input-field-32 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 139px;
+  width: 721px;
+}
+
+.profile .input-field-33 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+  width: 721px;
+}
+
+.profile .input-field-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 251px;
+  width: 721px;
+}
+
+.profile .input-field-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 307px;
+  width: 721px;
+}
+
+.profile .input-field-36 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 363px;
+  width: 721px;
+}
+
+.profile .input-field-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 419px;
+  width: 721px;
+}
+
+.profile .input-field-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 475px;
+  width: 721px;
+}
+
+.profile .group-40 {
+  height: 523px;
+  left: 1518px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.profile .percentage-grade {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 276px;
+}
+
+.profile .input-field-39 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 27px;
+  width: 268px;
+}
+
+.profile .input-field-40 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 83px;
+  width: 268px;
+}
+
+.profile .input-field-41 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 139px;
+  width: 268px;
+}
+
+.profile .input-field-42 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+  width: 268px;
+}
+
+.profile .input-field-43 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 251px;
+  width: 268px;
+}
+
+.profile .input-field-44 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 307px;
+  width: 268px;
+}
+
+.profile .input-field-45 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 363px;
+  width: 268px;
+}
+
+.profile .input-field-46 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 419px;
+  width: 268px;
+}
+
+.profile .input-field-47 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 475px;
+  width: 268px;
+}

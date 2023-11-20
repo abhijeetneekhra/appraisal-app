@@ -1,0 +1,24 @@
+.primary-color {
+  align-items: center;
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  overflow: hidden;
+  padding: 16px 80px;
+  position: relative;
+}
+
+.primary-color .button-sample {
+  color: var(--color-white);
+  font-family: var(--text-normal-bold-font-family);
+  font-size: var(--text-normal-bold-font-size);
+  font-style: var(--text-normal-bold-font-style);
+  font-weight: var(--text-normal-bold-font-weight);
+  letter-spacing: var(--text-normal-bold-letter-spacing);
+  line-height: var(--text-normal-bold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

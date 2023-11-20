@@ -1,0 +1,160 @@
+.instruction-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.instruction-page .div-2 {
+  background-color: #ffffff;
+  height: 800px;
+  position: relative;
+  width: 1280px;
+}
+
+.instruction-page .overlap {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 624px;
+}
+
+.instruction-page .group {
+  height: 58px;
+  left: 69px;
+  position: absolute;
+  top: 51px;
+  width: 180px;
+}
+
+.instruction-page .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 34px;
+  font-weight: 500;
+  left: 119px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 213px;
+}
+
+.instruction-page .rectangle {
+  height: 800px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 624px;
+}
+
+.instruction-page .overlap-group {
+  background-image: url(../../../static/img/rectangle-2880.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 800px;
+  left: 624px;
+  position: absolute;
+  top: 0;
+  width: 656px;
+}
+
+.instruction-page .footer-instance {
+  background-color: transparent !important;
+  left: 43px !important;
+  position: absolute !important;
+  top: 696px !important;
+  width: 491px !important;
+}
+
+.instruction-page .design-component-instance-node {
+  font-family: "Inter", Helvetica !important;
+}
+
+.instruction-page .footer-2 {
+  color: #e85122 !important;
+  font-family: "Inter", Helvetica !important;
+}
+
+.instruction-page .group-2 {
+  height: 428px;
+  left: 79px;
+  position: absolute;
+  top: 187px;
+  width: 549px;
+}
+
+.instruction-page .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22.4px;
+  height: 230px;
+  left: 0;
+  position: absolute;
+  top: 130px;
+  width: 547px;
+}
+
+.instruction-page .text-2 {
+  align-self: stretch;
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 36.9px;
+  position: relative;
+}
+
+.instruction-page .span {
+  color: #4f4f4f;
+}
+
+.instruction-page .text-wrapper-3 {
+  color: #e85122;
+}
+
+.instruction-page .input-label-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 102px !important;
+  width: 100px !important;
+}
+
+.instruction-page .logo {
+  height: 78px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.instruction-page .line {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 376px;
+}
+
+.instruction-page .secondary-color {
+  background-color: #e85122 !important;
+  border-radius: 4px !important;
+  display: flex !important;
+  height: 42px !important;
+  justify-content: center !important;
+  left: 455px !important;
+  padding: 10px !important;
+  position: absolute !important;
+  top: 386px !important;
+  width: 81px !important;
+}
+
+.instruction-page .primary-color-instance {
+  margin-top: -1.5px !important;
+}

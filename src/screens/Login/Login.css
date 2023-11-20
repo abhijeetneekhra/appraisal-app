@@ -1,0 +1,224 @@
+.login {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login .div-2 {
+  background-color: #ffffff;
+  height: 800px;
+  position: relative;
+  width: 1280px;
+}
+
+.login .overlap {
+  height: 800px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 624px;
+}
+
+.login .group {
+  height: 58px;
+  left: 69px;
+  position: absolute;
+  top: 51px;
+  width: 180px;
+}
+
+.login .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 34px;
+  font-weight: 500;
+  left: 119px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 213px;
+}
+
+.login .rectangle {
+  height: 800px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 624px;
+}
+
+.login .overlap-group {
+  background-image: url(../../../static/img/rectangle-2880.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 800px;
+  left: 624px;
+  position: absolute;
+  top: 0;
+  width: 656px;
+}
+
+.login .footer-instance {
+  background-color: transparent !important;
+  left: 43px !important;
+  position: absolute !important;
+  top: 696px !important;
+  width: 491px !important;
+}
+
+.login .design-component-instance-node {
+  font-family: "Inter", Helvetica !important;
+}
+
+.login .footer-2 {
+  color: #e85122 !important;
+  font-family: "Inter", Helvetica !important;
+}
+
+.login .group-2 {
+  height: 477px;
+  left: 79px;
+  position: absolute;
+  top: 127px;
+  width: 382px;
+}
+
+.login .form {
+  border: 1px solid;
+  border-color: var(--color-grey-4);
+  border-radius: 4px;
+  height: 55px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 155px;
+  width: 376px;
+}
+
+.login .placeholder-instance {
+  left: 24px !important;
+  top: 16px !important;
+}
+
+.login .placeholder-wrapper {
+  border: 1px solid;
+  border-color: var(--color-grey-4);
+  border-radius: 4px;
+  height: 55px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 257px;
+  width: 376px;
+}
+
+.login .overlap-group-2 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 320px;
+  width: 331px;
+}
+
+.login .text-wrapper-4 {
+  color: var(--color-grey-2);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.login .text-wrapper-5 {
+  color: #e85122;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 156px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.login .text-wrapper-6 {
+  color: var(--color-grey-2);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 371px;
+  white-space: nowrap;
+  width: 175px;
+}
+
+.login .input-label-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 124px !important;
+}
+
+.login .input-label-2 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 226px !important;
+}
+
+.login .logo {
+  height: 78px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 190px;
+}
+
+.login .line {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 376px;
+}
+
+.login .rectangle-2 {
+  border: 1px solid;
+  border-color: #bdbdbd;
+  border-radius: 4px;
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 16px;
+}
+
+.login .secondary-color {
+  background-color: #e85122 !important;
+  border-radius: 4px !important;
+  display: flex !important;
+  height: 42px !important;
+  justify-content: center !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 435px !important;
+  width: 376px !important;
+}
+
+.login .primary-color-instance {
+  margin-bottom: -5.5px !important;
+  margin-top: -7.5px !important;
+}

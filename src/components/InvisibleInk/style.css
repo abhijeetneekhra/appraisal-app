@@ -1,0 +1,448 @@
+.invisible-ink {
+  height: 5px;
+  position: relative;
+}
+
+.invisible-ink .pixel-19 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.invisible-ink .pixel-20 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible-ink .pixel-21 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible-ink .pixel-22 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible-ink .pixel-23 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible-ink .pixel-24 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible-ink .pixel-25 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible-ink .pixel-26 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible-ink .pixel-27 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  width: 1px;
+}
+
+.invisible-ink .pixel-28 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.invisible-ink .pixel-29 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.invisible-ink .pixel-30 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.invisible-ink.on {
+  width: 3px;
+}
+
+.invisible-ink.off {
+  width: 4px;
+}
+
+.invisible-ink .five-on {
+  left: 0;
+}
+
+.invisible-ink .seven-on {
+  left: 0;
+}
+
+.invisible-ink .four-on {
+  left: 0;
+}
+
+.invisible-ink .three-on {
+  left: 0;
+}
+
+.invisible-ink .two-on {
+  left: 0;
+}
+
+.invisible-ink .three-off.four-off.two-off.seven-off.five-off {
+  left: 1px;
+}
+
+.invisible-ink .five-0-on {
+  left: 1px;
+}
+
+.invisible-ink .seven-0-on {
+  left: 1px;
+}
+
+.invisible-ink .one-on {
+  top: 1px;
+}
+
+.invisible-ink .three-0-on {
+  left: 1px;
+}
+
+.invisible-ink .two-0-on {
+  left: 1px;
+}
+
+.invisible-ink .one-off {
+  top: 0;
+}
+
+.invisible-ink .three-0-off.two-0-off.seven-0-off.five-0-off.four-0-on {
+  left: 3px;
+}
+
+.invisible-ink .three-0-off.four-0-off.two-0-off.seven-0-off.one-on.five-0-off {
+  left: 0;
+}
+
+.invisible-ink .five-0-off.three-0-off.two-0-off.seven-0-off.one-off.four-0-off {
+  left: 2px;
+}
+
+.invisible-ink .five-1-on {
+  left: 2px;
+  top: 0;
+}
+
+.invisible-ink .seven-1-on {
+  left: 2px;
+  top: 0;
+}
+
+.invisible-ink .three-1-on {
+  left: 2px;
+  top: 0;
+}
+
+.invisible-ink .two-1-on {
+  left: 2px;
+  top: 0;
+}
+
+.invisible-ink .five-1-off.three-1-off.two-1-off.seven-1-off {
+  top: 1px;
+}
+
+.invisible-ink .three-1-off.two-1-off.seven-1-off.one-0-off.five-1-off {
+  left: 0;
+}
+
+.invisible-ink .three-1-off.two-1-off.seven-1-off.one-0-on.five-1-off {
+  left: 1px;
+}
+
+.invisible-ink .six-on {
+  left: 0;
+  top: 2px;
+}
+
+.invisible-ink .one-1-on {
+  top: 2px;
+}
+
+.invisible-ink .six-off.one-1-on {
+  left: 1px;
+}
+
+.invisible-ink .one-1-off.six-off {
+  left: 3px;
+}
+
+.invisible-ink .one-1-off.six-off.five-2-on {
+  top: 0;
+}
+
+.invisible-ink .one-1-off.six-off.seven-2-on {
+  top: 0;
+}
+
+.invisible-ink .one-1-off.five-2-off.six-off.seven-2-off {
+  top: 1px;
+}
+
+.invisible-ink .five-3-on {
+  top: 1px;
+}
+
+.invisible-ink .six-0-on {
+  left: 1px;
+}
+
+.invisible-ink .seven-3-on {
+  top: 1px;
+}
+
+.invisible-ink .eight-on {
+  left: 1px;
+}
+
+.invisible-ink .nine-on {
+  left: 1px;
+}
+
+.invisible-ink .one-2-on {
+  left: 1px;
+}
+
+.invisible-ink .three-2-on {
+  left: 1px;
+}
+
+.invisible-ink .two-2-on {
+  left: 1px;
+}
+
+.invisible-ink .five-3-off.one-2-on.seven-3-off {
+  top: 3px;
+}
+
+.invisible-ink .one-2-off.five-3-off.seven-3-off {
+  top: 2px;
+}
+
+.invisible-ink .three-2-off.two-2-off.one-2-off.nine-off.seven-3-on.six-0-off.eight-off {
+  left: 3px;
+}
+
+.invisible-ink .three-2-off.two-2-off.seven-3-off.one-2-off.nine-off.six-0-off.eight-off {
+  left: 0;
+}
+
+.invisible-ink .three-3-on {
+  left: 2px;
+}
+
+.invisible-ink .six-1-on {
+  left: 2px;
+}
+
+.invisible-ink .eight-0-on {
+  left: 2px;
+}
+
+.invisible-ink .nine-0-on {
+  left: 2px;
+}
+
+.invisible-ink .two-3-on {
+  left: 2px;
+}
+
+.invisible-ink .one-3-on {
+  top: 4px;
+}
+
+.invisible-ink .seven-4-on {
+  left: 2px;
+}
+
+.invisible-ink .one-3-off {
+  top: 2px;
+}
+
+.invisible-ink .three-3-off.two-3-off.seven-4-off.nine-0-off.six-1-off.eight-0-off.five-4-on {
+  left: 0;
+}
+
+.invisible-ink .three-3-off.two-3-off.seven-4-off.nine-0-off.one-3-on.six-1-off.eight-0-off {
+  left: 0;
+}
+
+.invisible-ink .zero-on.three-3-off.two-3-off.seven-4-off.one-3-off.nine-0-off.five-4-off.six-1-off.eight-0-off {
+  left: 3px;
+}
+
+.invisible-ink
+  .three-3-off.two-3-off.seven-4-off.one-3-off.nine-0-off.five-4-off.six-1-off.eight-0-off.zero-off.four-1-on {
+  left: 1px;
+}
+
+.invisible-ink .five-5-on {
+  left: 1px;
+}
+
+.invisible-ink .seven-5-on {
+  left: 1px;
+}
+
+.invisible-ink .one-4-on {
+  left: 1px;
+  top: 4px;
+}
+
+.invisible-ink .one-4-off.four-2-on {
+  top: 2px;
+}
+
+.invisible-ink .one-4-off.five-5-on {
+  top: 2px;
+}
+
+.invisible-ink .one-4-off.nine-1-on {
+  top: 2px;
+}
+
+.invisible-ink .one-4-off.three-4-on.five-5-off.seven-5-off {
+  left: 3px;
+}
+
+.invisible-ink .one-4-off.five-5-off.four-2-off.nine-1-off {
+  top: 3px;
+}
+
+.invisible-ink .seven-5-off.one-4-off.five-5-off.nine-1-on {
+  left: 3px;
+}
+
+.invisible-ink .three-4-off.seven-5-off.one-4-off.nine-1-off.five-5-off.four-2-on {
+  left: 2px;
+}
+
+.invisible-ink .five-5-off.three-4-off.seven-5-off.one-4-off.nine-1-off.four-2-off {
+  left: 0;
+}
+
+.invisible-ink .five-6-on {
+  left: 2px;
+  top: 2px;
+}
+
+.invisible-ink .four-3-on {
+  top: 2px;
+}
+
+.invisible-ink .one-5-on {
+  left: 2px;
+}
+
+.invisible-ink .one-5-off.five-6-off.two-4-on {
+  left: 0;
+}
+
+.invisible-ink .four-3-off.three-5-on.five-6-off {
+  top: 4px;
+}
+
+.invisible-ink .one-5-off.three-5-on.five-6-off {
+  left: 0;
+}
+
+.invisible-ink .four-3-off.five-6-off.two-4-on {
+  top: 4px;
+}
+
+.invisible-ink .four-3-off.five-6-off.one-5-on {
+  top: 4px;
+}
+
+.invisible-ink .four-3-off.five-6-off.seven-6-on {
+  top: 4px;
+}
+
+.invisible-ink .three-5-off.two-4-off.seven-6-off.one-5-off.five-6-off {
+  left: 3px;
+}
+
+.invisible-ink .three-5-off.two-4-off.one-5-off.seven-6-on.five-6-off {
+  left: 1px;
+}
+
+.invisible-ink .five-6-off.three-5-off.two-4-off.seven-6-off.one-5-off.four-3-off {
+  top: 3px;
+}
+
+.invisible-ink .four-4-on {
+  left: 3px;
+  top: 3px;
+}
+
+.invisible-ink .five-7-on {
+  left: 3px;
+  top: 3px;
+}
+
+.invisible-ink .four-4-off.five-7-off {
+  left: 1px;
+  top: 4px;
+}
+
+.invisible-ink .four-5-on {
+  left: 3px;
+}
+
+.invisible-ink .four-5-off.five-8-off {
+  left: 2px;
+}
+
+.invisible-ink .four-5-off.five-8-on {
+  left: 0;
+}
+
+.invisible-ink .two-5-on {
+  left: 3px;
+}
+
+.invisible-ink .two-5-off.five-9-on {
+  left: 1px;
+}

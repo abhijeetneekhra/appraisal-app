@@ -1,0 +1,56 @@
+.switch-toggle {
+  height: 32px;
+  width: 56px;
+}
+
+.switch-toggle .overlap-group-2 {
+  border-radius: 16px;
+  height: 34px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 58px;
+}
+
+.switch-toggle .knob {
+  border-radius: 14px;
+  box-shadow: var(--elevation-1);
+  height: 30px;
+  position: absolute;
+  top: 2px;
+  width: 30px;
+}
+
+.switch-toggle .icons-9 {
+  height: 24px !important;
+  left: 29px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}
+
+.switch-toggle .icons-8 {
+  height: 24px !important;
+  left: 5px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}
+
+.switch-toggle .state-off {
+  background-color: #2a2a2e;
+}
+
+.switch-toggle .state-on {
+  background-color: var(--neutralprimary-purple);
+}
+
+.switch-toggle .overlap-group-2.state-off .knob {
+  background-color: var(--neutralprimary-purple);
+  left: 2px;
+}
+
+.switch-toggle .overlap-group-2.state-on .knob {
+  background-color: var(--gray-shadesdark-gray);
+  left: 26px;
+}

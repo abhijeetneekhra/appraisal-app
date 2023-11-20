@@ -1,0 +1,20 @@
+.placeholder {
+  height: 23px;
+  position: relative;
+  width: 158px;
+}
+
+.placeholder .text-wrapper-2 {
+  color: var(--color-grey-2);
+  font-family: var(--text-normal-font-family);
+  font-size: var(--text-normal-font-size);
+  font-style: var(--text-normal-font-style);
+  font-weight: var(--text-normal-font-weight);
+  left: 0;
+  letter-spacing: var(--text-normal-letter-spacing);
+  line-height: var(--text-normal-line-height);
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 158px;
+}

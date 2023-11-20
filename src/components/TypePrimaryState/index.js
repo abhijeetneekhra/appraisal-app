@@ -1,0 +1,1 @@
+export { TypePrimaryState } from "./TypePrimaryState";

@@ -1,0 +1,60 @@
+.type-primary-state {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 2px;
+  position: relative;
+}
+
+.type-primary-state .button {
+  all: unset;
+  align-items: center;
+  background-color: var(--digital-rose);
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 8px 16px;
+  position: relative;
+}
+
+.type-primary-state .icon-text {
+  align-items: center;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.type-primary-state .outline-plus {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.type-primary-state .text-2 {
+  color: var(--textsecondary);
+  font-family: var(--body-medium-font-family);
+  font-size: var(--body-medium-font-size);
+  font-style: var(--body-medium-font-style);
+  font-weight: var(--body-medium-font-weight);
+  letter-spacing: var(--body-medium-letter-spacing);
+  line-height: var(--body-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.type-primary-state .spacing-vertical-spacer-8px-spacing3-horizontal {
+  height: 15px !important;
+  position: relative !important;
+}
+
+.type-primary-state .spacing-vertical-spacer-8px-spacing3-horizontal-instance {
+  left: 2px !important;
+  top: 5px !important;
+}

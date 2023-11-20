@@ -1,0 +1,13 @@
+import { Menu } from ".";
+
+export default {
+  title: "Components/Menu",
+  component: Menu,
+};
+
+export const Default = {
+  args: {
+    className: {},
+    listManuIcons12Color: "abc",
+  },
+};

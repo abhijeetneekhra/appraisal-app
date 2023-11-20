@@ -1,0 +1,868 @@
+.KPI-screen-part-a {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.KPI-screen-part-a .overlap-wrapper {
+  background-color: #ffffff;
+  height: 1724px;
+  overflow: hidden;
+  width: 2238px;
+}
+
+.KPI-screen-part-a .overlap {
+  height: 1735px;
+  position: relative;
+  top: -1px;
+}
+
+.KPI-screen-part-a .header-default {
+  height: 64px;
+  left: 266px;
+  position: absolute;
+  top: 0;
+  width: 1972px;
+}
+
+.KPI-screen-part-a .overlap-group-3 {
+  background-image: url(../../../static/img/background.png);
+  background-size: 100% 100%;
+  height: 63px;
+  position: relative;
+  top: 1px;
+}
+
+.KPI-screen-part-a .right-side {
+  align-items: center;
+  display: inline-flex;
+  justify-content: flex-end;
+  left: 1866px;
+  position: absolute;
+  top: 11px;
+}
+
+.KPI-screen-part-a .spacing-horizontal-spacer {
+  align-self: stretch !important;
+  height: unset !important;
+  position: relative !important;
+}
+
+.KPI-screen-part-a .avatar {
+  background-image: url(../../../static/img/mask-group-1.png) !important;
+}
+
+.KPI-screen-part-a .default-avatar-single {
+  font-family: "Inter", Helvetica !important;
+  font-size: 16px !important;
+  font-style: unset !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.4px !important;
+  line-height: 24px !important;
+}
+
+.KPI-screen-part-a .client {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 24px;
+  left: 35px;
+  letter-spacing: -0.4px;
+  line-height: 24px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.KPI-screen-part-a .footer-instance {
+  background-color: transparent !important;
+  left: 321px !important;
+  position: absolute !important;
+  top: 1573px !important;
+}
+
+.KPI-screen-part-a .footer-2 {
+  font-family: "Inter", Helvetica !important;
+}
+
+.KPI-screen-part-a .footer-3 {
+  color: #e85122 !important;
+  font-family: "Inter", Helvetica !important;
+}
+
+.KPI-screen-part-a .overlap-2 {
+  height: 1733px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 2169px;
+}
+
+.KPI-screen-part-a .menu-instance {
+  height: 1733px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.KPI-screen-part-a .icons-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.KPI-screen-part-a .group {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 6px #ababab40;
+  height: 1365px;
+  left: 254px;
+  position: absolute;
+  top: 62px;
+  width: 1887px;
+}
+
+.KPI-screen-part-a .text-wrapper-2 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 302px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+  width: 1070px;
+}
+
+.KPI-screen-part-a .text-wrapper-3 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 350px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 185px;
+  width: 1564px;
+}
+
+.KPI-screen-part-a .text-wrapper-4 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 350px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1331px;
+  width: 1564px;
+}
+
+.KPI-screen-part-a .group-2 {
+  height: 18px;
+  left: 350px;
+  position: absolute;
+  top: 1391px;
+  width: 294px;
+}
+
+.KPI-screen-part-a .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 6.5px;
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 13px;
+}
+
+.KPI-screen-part-a .text-wrapper-5 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.KPI-screen-part-a .group-3 {
+  height: 1056px;
+  left: 350px;
+  position: absolute;
+  top: 251px;
+  width: 1820px;
+}
+
+.KPI-screen-part-a .roles {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  transform: rotate(-0.39deg);
+  width: 236px;
+}
+
+.KPI-screen-part-a .overlap-3 {
+  height: 205px;
+  left: 0;
+  position: absolute;
+  top: 851px;
+  width: 545px;
+}
+
+.KPI-screen-part-a .text-wrapper-6 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 7px;
+  transform: rotate(-0.39deg);
+  width: 284px;
+}
+
+.KPI-screen-part-a .text-wrapper-7 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 49px;
+  transform: rotate(-0.39deg);
+  width: 284px;
+}
+
+.KPI-screen-part-a .text-wrapper-8 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 91px;
+  transform: rotate(-0.39deg);
+  width: 284px;
+}
+
+.KPI-screen-part-a .text-wrapper-9 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 133px;
+  transform: rotate(-0.39deg);
+  width: 284px;
+}
+
+.KPI-screen-part-a .text-wrapper-10 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 176px;
+  transform: rotate(-0.39deg);
+  width: 284px;
+}
+
+.KPI-screen-part-a .group-4 {
+  height: 205px;
+  left: 283px;
+  position: absolute;
+  top: 0;
+  width: 262px;
+}
+
+.KPI-screen-part-a .group-5 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 266px;
+}
+
+.KPI-screen-part-a .overlap-group-4 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.KPI-screen-part-a .text-wrapper-11 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  transform: rotate(-0.39deg);
+  white-space: nowrap;
+  width: 38px;
+}
+
+.KPI-screen-part-a .div-2 {
+  border: 1px solid;
+  border-color: #d9d9d9;
+  border-radius: 5px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.KPI-screen-part-a .text-wrapper-12 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 227px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  transform: rotate(-0.39deg);
+  width: 35px;
+}
+
+.KPI-screen-part-a .group-6 {
+  border: 1px solid;
+  border-color: #d9d9d9;
+  border-radius: 5px;
+  height: 37px;
+  left: 142px;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.KPI-screen-part-a .group-7 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 266px;
+}
+
+.KPI-screen-part-a .group-8 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 266px;
+}
+
+.KPI-screen-part-a .group-9 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 126px;
+  width: 266px;
+}
+
+.KPI-screen-part-a .group-10 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 168px;
+  width: 266px;
+}
+
+.KPI-screen-part-a .text-wrapper-13 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 273px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  transform: rotate(-0.39deg);
+  width: 350px;
+}
+
+.KPI-screen-part-a .text-wrapper-14 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 661px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  transform: rotate(-0.39deg);
+  width: 280px;
+}
+
+.KPI-screen-part-a .text-wrapper-15 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 979px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  transform: rotate(-0.39deg);
+  width: 454px;
+}
+
+.KPI-screen-part-a .text-wrapper-16 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 1470px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  transform: rotate(-0.39deg);
+  width: 315px;
+}
+
+.KPI-screen-part-a .overlap-4 {
+  height: 127px;
+  left: 0;
+  position: absolute;
+  top: 44px;
+  width: 1768px;
+}
+
+.KPI-screen-part-a .overlap-5 {
+  height: 25px;
+  left: 654px;
+  position: absolute;
+  top: 0;
+  width: 289px;
+}
+
+.KPI-screen-part-a .text-wrapper-17 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transform: rotate(-0.39deg);
+  width: 105px;
+}
+
+.KPI-screen-part-a .text-wrapper-18 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transform: rotate(-0.39deg);
+  width: 105px;
+}
+
+.KPI-screen-part-a .text-wrapper-19 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transform: rotate(-0.39deg);
+  width: 105px;
+}
+
+.KPI-screen-part-a .self-comment {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 1070px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  transform: rotate(-0.39deg);
+  width: 133px;
+}
+
+.KPI-screen-part-a .text-wrapper-20 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 1209px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transform: rotate(-0.39deg);
+  width: 143px;
+}
+
+.KPI-screen-part-a .overlap-6 {
+  height: 118px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 1768px;
+}
+
+.KPI-screen-part-a .text-wrapper-21 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 1520px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  transform: rotate(-0.39deg);
+  width: 105px;
+}
+
+.KPI-screen-part-a .text-wrapper-22 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 1631px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transform: rotate(-0.39deg);
+  width: 137px;
+}
+
+.KPI-screen-part-a .group-11 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 1743px;
+}
+
+.KPI-screen-part-a .rectangle {
+  border: 1px solid;
+  border-color: #d9d9d9;
+  border-radius: 5px;
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 240px;
+}
+
+.KPI-screen-part-a .rectangle-2 {
+  border: 1px solid;
+  border-color: #d9d9d9;
+  border-radius: 5px;
+  height: 97px;
+  left: 273px;
+  position: absolute;
+  top: 0;
+  width: 359px;
+}
+
+.KPI-screen-part-a .group-12 {
+  height: 37px;
+  left: 664px;
+  position: absolute;
+  top: 22px;
+  width: 269px;
+}
+
+.KPI-screen-part-a .overlap-group-wrapper {
+  height: 37px;
+  left: 92px;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.KPI-screen-part-a .overlap-group-5 {
+  border-radius: 5px;
+  height: 37px;
+  position: relative;
+  width: 85px;
+}
+
+.KPI-screen-part-a .frame {
+  height: 6px;
+  left: 67px;
+  position: absolute;
+  top: 17px;
+  width: 11px;
+}
+
+.KPI-screen-part-a .text-wrapper-23 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.KPI-screen-part-a .group-13 {
+  height: 37px;
+  left: 184px;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.KPI-screen-part-a .group-14 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.KPI-screen-part-a .group-15 {
+  height: 37px;
+  left: 1080px;
+  position: absolute;
+  top: 21px;
+  width: 237px;
+}
+
+.KPI-screen-part-a .group-16 {
+  border: 1px solid;
+  border-color: #d9d9d9;
+  border-radius: 5px;
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 113px;
+}
+
+.KPI-screen-part-a .group-17 {
+  height: 37px;
+  left: 152px;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.KPI-screen-part-a .group-18 {
+  height: 37px;
+  left: 1521px;
+  position: absolute;
+  top: 21px;
+  width: 222px;
+}
+
+.KPI-screen-part-a .group-19 {
+  height: 37px;
+  left: 137px;
+  position: absolute;
+  top: 0;
+  width: 87px;
+}
+
+.KPI-screen-part-a .group-20 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 183px;
+  width: 1743px;
+}
+
+.KPI-screen-part-a .group-21 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 293px;
+  width: 1743px;
+}
+
+.KPI-screen-part-a .group-22 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 403px;
+  width: 1743px;
+}
+
+.KPI-screen-part-a .group-23 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 513px;
+  width: 1743px;
+}
+
+.KPI-screen-part-a .group-24 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 623px;
+  width: 1743px;
+}
+
+.KPI-screen-part-a .group-25 {
+  height: 97px;
+  left: 0;
+  position: absolute;
+  top: 733px;
+  width: 1743px;
+}
+
+.KPI-screen-part-a .normal-default {
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  height: 55px;
+  left: 1457px;
+  overflow: hidden;
+  position: absolute;
+  top: 1430px;
+  width: 166px;
+}
+
+.KPI-screen-part-a .button-sample {
+  color: var(--color-white);
+  font-family: var(--text-normal-bold-font-family);
+  font-size: var(--text-normal-bold-font-size);
+  font-style: var(--text-normal-bold-font-style);
+  font-weight: var(--text-normal-bold-font-weight);
+  left: 25px;
+  letter-spacing: var(--text-normal-bold-letter-spacing);
+  line-height: var(--text-normal-bold-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.KPI-screen-part-a .button-sample-wrapper {
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  height: 55px;
+  left: 1628px;
+  overflow: hidden;
+  position: absolute;
+  top: 1430px;
+  width: 166px;
+}
+
+.KPI-screen-part-a .normal-default-2 {
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  height: 55px;
+  left: 1799px;
+  overflow: hidden;
+  position: absolute;
+  top: 1430px;
+  width: 166px;
+}
+
+.KPI-screen-part-a .button-sample-2 {
+  color: var(--color-white);
+  font-family: var(--text-normal-bold-font-family);
+  font-size: var(--text-normal-bold-font-size);
+  font-style: var(--text-normal-bold-font-style);
+  font-weight: var(--text-normal-bold-font-weight);
+  left: 61px;
+  letter-spacing: var(--text-normal-bold-letter-spacing);
+  line-height: var(--text-normal-bold-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.KPI-screen-part-a .button {
+  all: unset;
+  background-color: var(--color-primary);
+  border-radius: 8px;
+  box-sizing: border-box;
+  height: 55px;
+  left: 1970px;
+  overflow: hidden;
+  position: absolute;
+  top: 1430px;
+  width: 166px;
+}
+
+.KPI-screen-part-a .button-sample-3 {
+  all: unset;
+  box-sizing: border-box;
+  color: var(--color-white);
+  font-family: var(--text-normal-bold-font-family);
+  font-size: var(--text-normal-bold-font-size);
+  font-style: var(--text-normal-bold-font-style);
+  font-weight: var(--text-normal-bold-font-weight);
+  left: 65px;
+  letter-spacing: var(--text-normal-bold-letter-spacing);
+  line-height: var(--text-normal-bold-line-height);
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}

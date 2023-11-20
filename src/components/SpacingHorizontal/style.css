@@ -1,0 +1,108 @@
+.spacing-horizontal {
+  height: 48px;
+}
+
+.spacing-horizontal .div {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 20px;
+  position: relative;
+  top: 21px;
+}
+
+.spacing-horizontal .invisible-ink-instance {
+  left: 2px !important;
+  top: 21px !important;
+}
+
+.spacing-horizontal.eight-px-spacing3 {
+  width: 8px;
+}
+
+.spacing-horizontal.twenty-four-px-spacing7 {
+  width: 24px;
+}
+
+.spacing-horizontal.sixteen-px-spacing5 {
+  width: 16px;
+}
+
+.spacing-horizontal.twenty-px-spacing6 {
+  width: 20px;
+}
+
+.spacing-horizontal.twelve-px-spacing4 {
+  width: 12px;
+}
+
+.spacing-horizontal.forty-eight-px-spacing8 {
+  width: 48px;
+}
+
+.spacing-horizontal.two-px-spacing1 {
+  width: 2px;
+}
+
+.spacing-horizontal.thirty-two-px {
+  width: 32px;
+}
+
+.spacing-horizontal.four-px-spacing2 {
+  width: 4px;
+}
+
+.spacing-horizontal.twenty-four-px-spacing7 .invisible-ink-6 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 8px;
+  position: relative;
+  top: 21px;
+}
+
+.spacing-horizontal.sixteen-px-spacing5 .invisible-ink-6 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 4px;
+  position: relative;
+  top: 21px;
+}
+
+.spacing-horizontal.twenty-px-spacing6 .invisible-ink-6 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 5px;
+  position: relative;
+  top: 21px;
+}
+
+.spacing-horizontal.twelve-px-spacing4 .invisible-ink-6 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 2px;
+  position: relative;
+  top: 21px;
+}
+
+.spacing-horizontal.two-px-spacing1 .invisible-ink-6 {
+  height: 2px;
+}
+
+.spacing-horizontal.thirty-two-px .invisible-ink-6 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 12px;
+  position: relative;
+  top: 21px;
+}

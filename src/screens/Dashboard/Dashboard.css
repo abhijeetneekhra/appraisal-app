@@ -1,0 +1,562 @@
+.dashboard {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard .div-2 {
+  background-color: #ffffff;
+  height: 1716px;
+  overflow: hidden;
+  position: relative;
+  width: 2238px;
+}
+
+.dashboard .header-default {
+  height: 64px;
+  left: 266px;
+  position: absolute;
+  top: -1px;
+  width: 1972px;
+}
+
+.dashboard .overlap-group-3 {
+  background-image: url(../../../static/img/background.png);
+  background-size: 100% 100%;
+  height: 63px;
+  position: relative;
+  top: 1px;
+}
+
+.dashboard .right-side {
+  align-items: center;
+  display: inline-flex;
+  justify-content: flex-end;
+  left: 1866px;
+  position: absolute;
+  top: 11px;
+}
+
+.dashboard .spacing-horizontal-spacer {
+  align-self: stretch !important;
+  height: unset !important;
+  position: relative !important;
+}
+
+.dashboard .avatar {
+  background-image: url(../../../static/img/mask-group-1.png) !important;
+}
+
+.dashboard .design-component-instance-node-3 {
+  font-family: "Inter", Helvetica !important;
+  font-size: 16px !important;
+  font-style: unset !important;
+  font-weight: 500 !important;
+  letter-spacing: -0.4px !important;
+  line-height: 24px !important;
+}
+
+.dashboard .client {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 24px;
+  left: 35px;
+  letter-spacing: -0.4px;
+  line-height: 24px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.dashboard .footer-instance {
+  background-color: transparent !important;
+  left: 321px !important;
+  position: absolute !important;
+  top: 1572px !important;
+}
+
+.dashboard .footer-2 {
+  font-family: "Inter", Helvetica !important;
+}
+
+.dashboard .footer-3 {
+  color: #e85122 !important;
+  font-family: "Inter", Helvetica !important;
+}
+
+.dashboard .overlap {
+  height: 361px;
+  left: 302px;
+  position: absolute;
+  top: 99px;
+  width: 1887px;
+}
+
+.dashboard .text-wrapper-8 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1070px;
+}
+
+.dashboard .profile-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 50px !important;
+}
+
+.dashboard .text-wrapper-9 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  left: 315px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 504px;
+  width: 264px;
+}
+
+.dashboard .frame {
+  height: 540px;
+  left: 302px;
+  position: absolute;
+  top: 564px;
+  width: 605px;
+}
+
+.dashboard .overlap-2 {
+  height: 540px;
+  position: relative;
+  width: 607px;
+}
+
+.dashboard .group {
+  height: 540px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 607px;
+}
+
+.dashboard .overlap-group-4 {
+  border-radius: 8px;
+  height: 540px;
+  position: relative;
+  width: 605px;
+}
+
+.dashboard .text-wrapper-10 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: 568px;
+}
+
+.dashboard .div-3 {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 6px #ababab40;
+  height: 540px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 605px;
+}
+
+.dashboard .default-button {
+  left: 227px !important;
+  position: absolute !important;
+  top: 452px !important;
+}
+
+.dashboard
+  .type-primary-state-default-focus-area-not-applicable-autolayout-true-mode-light-mode {
+  background-color: #e85122 !important;
+}
+
+.dashboard .group-2 {
+  height: 292px;
+  left: 84px;
+  position: absolute;
+  top: 118px;
+  width: 447px;
+}
+
+.dashboard .shape-with-text {
+  height: 253px;
+  left: 69px;
+  position: absolute;
+  top: 468px;
+  width: 56px;
+}
+
+.dashboard .img {
+  height: 126px;
+  left: 250px;
+  position: absolute;
+  top: 596px;
+  width: 55px;
+}
+
+.dashboard .final {
+  height: 24px;
+  left: 235px;
+  position: absolute;
+  top: 736px;
+  width: 86px;
+}
+
+.dashboard .half-yeary {
+  height: 24px;
+  left: 54px;
+  position: absolute;
+  top: 736px;
+  width: 86px;
+}
+
+.dashboard .connector-line {
+  height: 271px;
+  left: 15px;
+  position: absolute;
+  top: 449px;
+  width: 1px;
+}
+
+.dashboard .line {
+  height: 11px;
+  left: 70px;
+  position: absolute;
+  top: 248px;
+  width: 371px;
+}
+
+.dashboard .text-wrapper-11 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  position: absolute;
+  top: 226px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.dashboard .text-wrapper-12 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.dashboard .text-wrapper-13 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.dashboard .text-wrapper-14 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  position: absolute;
+  top: 80px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.dashboard .text-wrapper-15 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: -0.46px;
+  line-height: 36px;
+  position: absolute;
+  top: 31px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.dashboard .text-wrapper-16 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: 568px;
+}
+
+.dashboard .overlap-wrapper {
+  height: 540px;
+  left: 943px;
+  position: absolute;
+  top: 564px;
+  width: 605px;
+}
+
+.dashboard .overlap-3 {
+  border-radius: 8px;
+  height: 540px;
+  position: relative;
+}
+
+.dashboard .type-primary-state-instance {
+  left: 153px !important;
+  top: 452px !important;
+}
+
+.dashboard .text-wrapper-17 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: 568px;
+}
+
+.dashboard .shape-with-text-2 {
+  height: 253px;
+  left: -572px;
+  position: absolute;
+  top: 468px;
+  width: 56px;
+}
+
+.dashboard .shape-with-text-3 {
+  height: 126px;
+  left: -392px;
+  position: absolute;
+  top: 596px;
+  width: 55px;
+}
+
+.dashboard .final-2 {
+  height: 24px;
+  left: -407px;
+  position: absolute;
+  top: 736px;
+  width: 86px;
+}
+
+.dashboard .half-yeary-2 {
+  height: 24px;
+  left: -587px;
+  position: absolute;
+  top: 736px;
+  width: 86px;
+}
+
+.dashboard .connector-line-2 {
+  height: 271px;
+  left: -626px;
+  position: absolute;
+  top: 449px;
+  width: 1px;
+}
+
+.dashboard .overlap-group-wrapper {
+  height: 540px;
+  left: 1584px;
+  position: absolute;
+  top: 564px;
+  width: 605px;
+}
+
+.dashboard
+  .type-primary-state-default-focus-area-not-applicable-autolayout-true-mode-light-mode-instance {
+  left: 166px !important;
+  top: 452px !important;
+}
+
+.dashboard .graphical-view-of-my {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  width: 568px;
+}
+
+.dashboard .shape-with-text-4 {
+  height: 253px;
+  left: -1213px;
+  position: absolute;
+  top: 468px;
+  width: 56px;
+}
+
+.dashboard .shape-with-text-5 {
+  height: 126px;
+  left: -1033px;
+  position: absolute;
+  top: 596px;
+  width: 55px;
+}
+
+.dashboard .final-3 {
+  height: 24px;
+  left: -1048px;
+  position: absolute;
+  top: 736px;
+  width: 86px;
+}
+
+.dashboard .half-yeary-3 {
+  height: 24px;
+  left: -1228px;
+  position: absolute;
+  top: 736px;
+  width: 86px;
+}
+
+.dashboard .connector-line-3 {
+  height: 271px;
+  left: -1267px;
+  position: absolute;
+  top: 449px;
+  width: 1px;
+}
+
+.dashboard .group-3 {
+  height: 169px;
+  left: 302px;
+  position: absolute;
+  top: 1149px;
+  width: 1881px;
+}
+
+.dashboard .pending-employees {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1874px;
+}
+
+.dashboard .overlap-4 {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 6px #ababab40;
+  height: 104px;
+  left: 0;
+  position: absolute;
+  top: 65px;
+  width: 1875px;
+}
+
+.dashboard .text-wrapper-18 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+  width: 211px;
+}
+
+.dashboard .text-wrapper-19 {
+  color: #4f4f4f;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1185px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 36px;
+  width: 144px;
+}
+
+.dashboard .group-4 {
+  height: 158px;
+  left: 302px;
+  position: absolute;
+  top: 1363px;
+  width: 1881px;
+}
+
+.dashboard .overlap-5 {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 6px #ababab40;
+  height: 104px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 1875px;
+}
+
+.dashboard .menu-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.dashboard .icons-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}

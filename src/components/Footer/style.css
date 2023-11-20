@@ -1,0 +1,354 @@
+.footer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 759px;
+}
+
+.footer .spacing-vertical-spacer {
+  left: 376px !important;
+}
+
+.footer .spacing-vertical-instance {
+  align-self: stretch !important;
+  position: relative !important;
+  width: 100% !important;
+}
+
+.footer .div {
+  align-self: stretch;
+  position: relative;
+}
+
+.footer .element-pwc-all-righ {
+  align-self: stretch;
+  color: #252525;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .links {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.footer .text-wrapper {
+  color: #415385;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  line-height: 20px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .divider {
+  color: #252525;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .invisible-ink-wrapper {
+  align-self: stretch;
+  height: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.footer .invisible-ink-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 376px;
+  position: relative;
+  top: 9px;
+}
+
+.footer .invisible-ink-3 {
+  height: 5px;
+  position: relative;
+  width: 4px;
+}
+
+.footer .pixel {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.footer .pixel-2 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.footer .pixel-3 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.footer .pixel-4 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.footer .pixel-5 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.footer .pixel-6 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.footer .pixel-7 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.footer .pixel-8 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.footer .pixel-9 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.footer .pixel-10 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.footer .pixel-11 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.footer .pixel-12 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.footer .pixel-13 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.footer .pixel-14 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.footer .pixel-15 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.footer .pixel-16 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.footer .link-2 {
+  align-self: stretch;
+  position: relative;
+}
+
+.footer .p {
+  align-self: stretch;
+  color: var(--textheading);
+  font-family: var(--tooltips-font-family);
+  font-size: var(--tooltips-font-size);
+  font-style: var(--tooltips-font-style);
+  font-weight: var(--tooltips-font-weight);
+  letter-spacing: var(--tooltips-letter-spacing);
+  line-height: var(--tooltips-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .link-3 {
+  color: var(--textprimary);
+  font-family: var(--new-hyperlink-tooltips-font-family);
+  font-size: var(--new-hyperlink-tooltips-font-size);
+  font-style: var(--new-hyperlink-tooltips-font-style);
+  font-weight: var(--new-hyperlink-tooltips-font-weight);
+  letter-spacing: var(--new-hyperlink-tooltips-letter-spacing);
+  line-height: var(--new-hyperlink-tooltips-line-height);
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .divider-2 {
+  color: var(--textheading);
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .div-wrapper {
+  align-self: stretch;
+  height: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.footer .invisible-ink-4 {
+  align-items: center;
+  display: inline-flex;
+  gap: 1px;
+  justify-content: center;
+  left: 376px;
+  position: relative;
+  top: 3px;
+}
+
+.footer .invisible-ink-5 {
+  height: 5px;
+  position: relative;
+  width: 3px;
+}
+
+.footer .pixel-17 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.footer .pixel-18 {
+  background-color: var(--invisible-ink);
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.footer .link {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  width: 100%;
+}
+
+.footer .text {
+  color: #252525;
+  font-family: "Helvetica Neue-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.2px;
+  line-height: 20px;
+}
+
+.footer .type-link {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  width: 100%;
+}
+
+.footer .type-text {
+  color: var(--textheading);
+  font-family: var(--tooltips-font-family);
+  font-size: var(--tooltips-font-size);
+  font-style: var(--tooltips-font-style);
+  font-weight: var(--tooltips-font-weight);
+  letter-spacing: var(--tooltips-letter-spacing);
+  line-height: var(--tooltips-line-height);
+}
